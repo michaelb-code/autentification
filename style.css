@@ -1,0 +1,17 @@
+button{
+    width: 200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: peru;
+    box-shadow: 3px 3px 3px darkred;
+    transition: .75s;
+    margin: 0 15px 0 15px;
+}
+button:hover{
+    background-color: blue;
+}
+a{
+    color: black;
+}
